@@ -4,11 +4,14 @@
 
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:00D4FF,100:6366F1&height=250&section=header&text=Amey%20Sarode&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Lead%20Software%20Engineer%20%E2%80%A2%2012x%20AWS%20Certified%20%E2%80%A2%20Cloud%20%26%20AI%20Architect&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+<!-- ANIMATED WAVE HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&duration=3000&pause=5000&color=00D4FF&center=true&vCenter=true&repeat=false&width=900&height=120&lines=Amey+Sarode" alt="Amey Sarode" width="100%"/>
+
+<!-- ANIMATED ROLE TAGLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&repeat=false&width=900&height=50&lines=Lead+Software+Engineer+%E2%80%A2+12x+AWS+Certified+%E2%80%A2+Cloud+%26+AI+Architect" alt="Subtitle" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Amey+Sarode;Lead+Software+Engineer+with+9%2B+Years+Experience+%F0%9F%9A%80;12x+AWS+Certified+Professional+%E2%98%81%EF%B8%8F;Building+Enterprise+Cloud-Native+%26+Serverless+Systems+%E2%9A%A1;LLM+Architectures+%C2%B7+LangChain+%C2%B7+LangGraph+%C2%B7+RAG+%F0%9F%A7%A0;Specialized+in+TypeScript%2C+Python%2C+React+%26+Next.js+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=900&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Amey+Sarode!;Lead+Software+Engineer+%7C+9%2B+Years+%F0%9F%9A%80;12x+AWS+Certified+Professional+%E2%98%81%EF%B8%8F;Cloud-Native+%26+Serverless+Architect+%E2%9A%A1;LangChain+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+LLMs+%F0%9F%A7%A0;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js+%F0%9F%92%BB)](https://github.com/amster94)
 
 <br/>
 
